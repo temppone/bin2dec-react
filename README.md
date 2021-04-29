@@ -1,1 +1,1 @@
-# Conversor de binário para decimal em reactjs
+Conversor de binário para decimal em reactjs
